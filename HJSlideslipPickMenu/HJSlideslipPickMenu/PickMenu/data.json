@@ -1,0 +1,188 @@
+{
+    "dataList": [
+                        {
+                        "type": "服务",
+                        "datas": [
+                                  {
+                                  "text": "打车",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "坐飞机",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "坐高铁",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "坐大巴",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "坐公交",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "坐轮船",
+                                  "isSelect": ""
+                                  }
+                         ]
+                        },
+                        {
+                        "type": "球队",
+                        "datas": [
+                                  {
+                                  "text": "英格兰",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "法国",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "阿根廷",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "德国",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "巴西",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "塞尔维亚",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "伊朗",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "沙特阿拉伯",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "韩国",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "俄罗斯",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "瑞士",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "冰岛",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "乌拉圭",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "日本",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "埃及",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "瑞典",
+                                  "isSelect": ""
+                                  }
+                                  ]
+                        },
+                        {
+                        "type": "城市",
+                        "datas": [
+                                  {
+                                  "text": "上海",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "北京",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "深圳",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "广州",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "杭州",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "南京",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "合肥",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "郑州",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "武汉",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "成都",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "长沙",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "昆明",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "厦门",
+                                  "isSelect": ""
+                                  }
+                                  ]
+                        },
+                        {
+                        "type": "品牌",
+                        "datas": [
+                                  {
+                                  "text": "耐克",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "阿迪达斯",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "彪马",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "乔丹",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "李宁",
+                                  "isSelect": ""
+                                  },
+                                  {
+                                  "text": "安踏",
+                                  "isSelect": ""
+                                  }
+                                  ]
+                        }
+              ]
+}
