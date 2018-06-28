@@ -15,7 +15,7 @@ lazy var pickMenu:HJSlidelipPickerMenu = {
      }()
 ```
 
-##### 数据源（HJSlidelipPickerMenuDataSource）
+#### HJSlidelipPickerMenuDataSource
 
 ```
 @objc protocol HJSlidelipPickerMenuDataSource{
@@ -26,7 +26,7 @@ lazy var pickMenu:HJSlidelipPickerMenu = {
 }
 ```
 
-##### 代理（HJSlidelipPickerMenuDelegate）
+#### HJSlidelipPickerMenuDelegate
 
 ```
 @objc protocol HJSlidelipPickerMenuDelegate{
